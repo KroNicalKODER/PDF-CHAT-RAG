@@ -22,7 +22,7 @@ A Streamlit application that allows users to upload PDFs, generate embeddings fo
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/KroNicalKODER/PDF-CHAT-RAG
+   git clone https://github.com/KroNicalKODER/PDF-CHAT-RAG.git
    cd pdf-qna-rag-machine
    ```
 
