@@ -1,0 +1,7 @@
+numpy
+langchain
+ipykernel
+langchain_community
+pypdf
+faiss-cpu
+streamlit
